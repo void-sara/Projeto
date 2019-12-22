@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CommandActions
+comment0.text=\r\n\r\n\ @author\ \r\n
+comment1.params=
+comment1.target=CommandActions()
+comment2.params=command
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\r\n\ Metodo\ que\ validaa\ se\ o\ comando\ recebido\ \u00E9\ igual\ a\ um\ dos\ comandos\r\n\ reconhecidos\ pelo\ programa.\ N\u00E3o\ \u00E9\ case\ sensitive.\r\n\r\n\ @param\ command\r\n\ @return\r\n
+comment3.params=
+comment3.target=void\ showAllCommands()
+comment3.text=\r\n\ Metodo\ responsavel\ pela\ apresenta\u00E7\u00E3o\ da\ listagem\ de\ todos\ os\ comandos\r\n\ possiveis.\r\n
+numComments=4

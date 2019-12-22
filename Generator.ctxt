@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Generator
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Generator\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Generator()
+comment2.params=
+comment2.target=int\ randomAttPack()
+comment2.text=\r\n\ M\u00E9todo\ para\ gerar\ um\ n\u00FAmero\ alea\u00F3rio\ de\ pontos\ de\ ataque.\r\n
+comment3.params=
+comment3.target=int\ randomDefPack()
+comment3.text=\r\n\ M\u00E9todo\ para\ gerar\ um\ n\u00FAmero\ aleat\u00F3rio\ de\ pontos\ de\ defesa.\r\n
+comment4.params=
+comment4.target=int\ randomMonsterExp()
+comment4.text=\r\n\ M\u00E9todo\ para\ gerar\ um\ n\u00FAmero\ aleat\u00F3rio\ de\ pontos\ de\ experi\u00EAncia.\r\n
+comment5.params=
+comment5.target=int\ randomAlienAttDef()
+comment6.params=
+comment6.target=int\ randomAlienExp()
+comment7.params=
+comment7.target=Artifact\ randomArtifact()
+numComments=8

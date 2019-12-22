@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\r\n\ @author\ joao.capinha\r\n
+comment1.params=
+comment1.target=Parser()
+comment2.params=
+comment2.target=Command\ getCommand()
+comment3.params=string\ index
+comment3.target=java.lang.String\ readWord(java.lang.String,\ int)
+comment3.text=\r\n\ Metodo\ que\ recebe\ uma\ String\ e\ um\ index,\ e\ devolve\ a\ palavra\ referente\ a\r\n\ essa\ mesma\ posi\u00E7\u00E3o\ na\ String.\r\n\r\n\ @param\ string\r\n\ @param\ index\r\n\ @return\r\n
+comment4.params=
+comment4.target=void\ showCommands()
+comment4.text=\r\n\ Metodo\ que\ apresenta\ todos\ os\ comandos\ reconhecidos\ pela\ aplica\u00E7\u00E3o.\r\n
+numComments=5

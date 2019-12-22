@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Sector
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Sector\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=identification\ description
+comment1.target=Sector(java.lang.String,\ java.lang.String)
+comment2.params=cp\ sector
+comment2.target=Sector\ setExit(CardinalPoints,\ Sector)
+comment3.params=
+comment3.target=java.lang.String\ getIdentification()
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment5.params=
+comment5.target=Sector[]\ getExits()
+comment6.params=
+comment6.target=Artifact[]\ getChest()
+comment7.params=
+comment7.target=int\ getChestSize()
+comment8.params=id
+comment8.target=boolean\ removeArtifact(int)
+comment9.params=
+comment9.target=void\ fillChest()
+numComments=10

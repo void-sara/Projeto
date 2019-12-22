@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CommandProcessor
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Assistant\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=CommandProcessor()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=command
+comment3.target=boolean\ processCommand(Command)
+comment3.text=\r\n\ M\u00E9todo\ para\ processar\ os\ comandos\ inseridos\ pelo\ utilizador\r\n
+comment4.params=
+comment4.target=void\ myself()
+comment5.params=
+comment5.target=void\ see()
+comment6.params=
+comment6.target=void\ seeChest()
+comment7.params=
+comment7.target=void\ seeBag()
+numComments=8
